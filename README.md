@@ -1,6 +1,6 @@
 # Affordance Prompting
 
-Affordance-based implementation of [PIVOT]([https://deepmind.google/research/publications/72495/)](https://arxiv.org/abs/2402.07872))
+Affordance-based implementation of [PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs](https://deepmind.google/research/publications/72495/)
 
 **Examples:**
 
